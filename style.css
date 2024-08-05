@@ -1,0 +1,86 @@
+body{
+    margin: 0%;
+    font-family: "Concert One", sans-serif;
+}
+.back{
+    background-color: #3f5c9a;
+    position: relative;
+    height: 90px;
+    width: 100%;
+}
+.face{
+    position: absolute;
+    color: #fff;
+    top: 7%;
+    left: 16%;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: larger;
+}
+.tab1{
+    color: #fff;
+    top: 13%;
+    right: 150px;
+    position: absolute;
+}
+#logbtn{
+    background-color: #3f5c9a;
+    color: #fff;
+}
+.container{
+    background: #e2e5f0;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    
+}
+.img{
+    width: 500px;
+    height: 180px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.form{
+    position: absolute;
+    float: right;
+    top: 10px;
+    left: 800px;    
+}
+.pas{
+    color: #8faad3dc;
+}
+.optD{
+width: 50px;
+height: 23px;
+position: relative;
+}
+.optM{
+    height: 23px;
+}
+.opty{
+    height: 23px;
+}
+.Birth{
+    position: absolute;
+    top: 328px;
+    right:80px;
+    font-weight: 100;
+    font-size:x-small
+
+}
+
+
+.txt{
+    position: relative;
+    bottom: -9px;
+    font-size: smaller;
+    font-weight: 400;
+}
+.Sbtn{
+    position: absolute;
+    bottom: -40px;
+}
+.radio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
